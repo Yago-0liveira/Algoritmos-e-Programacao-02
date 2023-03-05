@@ -1,0 +1,3 @@
+
+DeliciasApp - Main para testar o modelo "Produto"
+Produto - Um sistema para cadastrar os produtos vendidos no seu estabelecimento e controlar o estoque.
