@@ -1,0 +1,3 @@
+Conta - Um sistema para cadastrar clientes em um banco
+AppBanco - Testa todos os métodos da classe Conta.
+versao 2.0
