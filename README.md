@@ -1,2 +1,2 @@
 # Algoritmos-e-Programacao-02
-Repositório com todos os projetos feitos na disciplina "AP2"
+Repositório com alguns  Projettos feit na disciplina "AP2"
