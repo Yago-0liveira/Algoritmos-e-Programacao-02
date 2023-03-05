@@ -1,0 +1,11 @@
+App Banco - Main para testar a classe Conta
+Conta - classe que modela uma conta de um banco
+banco - Main mais simples para testar a classe Conta
+
+calculadora - Um modelo de calculadora em java
+TestaCalculadora - Main para testar a classe calculadora 
+
+
+
+
+
